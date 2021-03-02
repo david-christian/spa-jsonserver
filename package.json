@@ -14,12 +14,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lidemy/lidemy-student-json-api-server.git"
+    "url": "https://github.com/david-christian/spa-jsonserver.git"
   },
-  "bugs": {
-    "url": "https://github.com/Lidemy/lidemy-student-json-api-server/issues"
-  },
-  "homepage": "https://github.com/Lidemy/lidemy-student-json-api-server#readme",
   "devDependencies": {
     "json-server": "^0.16.3"
   }
