@@ -1,7 +1,7 @@
 {
   "name": "lidemy-student-json-api-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "這個專案由 [JSON server](https://github.com/typicode/json-server) 改造而成，新增了一些登入相關功能。",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +10,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.16.2",
     "jsonwebtoken": "^8.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lidemy/lidemy-student-json-api-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lidemy/lidemy-student-json-api-server/issues"
+  },
+  "homepage": "https://github.com/Lidemy/lidemy-student-json-api-server#readme",
+  "devDependencies": {
+    "json-server": "^0.16.3"
   }
 }
